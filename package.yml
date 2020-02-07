@@ -1,0 +1,7 @@
+package: linkmap_concept
+version: '0.1'
+author: 'Friends Of REDAXO'
+
+page:
+    title: LinkConcept
+    pjax: true
